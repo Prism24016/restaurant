@@ -16,7 +16,7 @@ body {
   color: #000;
   font-size: 16px;
   background-color: #5d4e8b;
-  background: url(../img/background2.jpg);
+  background: url(background2.jpg);
 }
 
 a {
@@ -153,7 +153,7 @@ header li {
 /* main-news
 ------------------------------------------ */
 main {
-  background: url(../img/background.jpg);
+  background: url(background.jpg);
   background-color: antiquewhite;
   padding-top: 50px;
 }
